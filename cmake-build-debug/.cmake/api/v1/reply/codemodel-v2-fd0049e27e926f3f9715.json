@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.30"
+						"string" : "3.29.6"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CLion/Sem5/Lab3/cmake-build-debug",
-		"source" : "D:/CLion/Sem5/Lab3"
+		"build" : "D:/KPI/Cource3/C++/Lab3/C-Lab3/cmake-build-debug",
+		"source" : "D:/KPI/Cource3/C++/Lab3/C-Lab3"
 	},
 	"version" : 
 	{
